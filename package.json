@@ -2,7 +2,7 @@
   "author": "onsummer",
   "repository": "onsummer/ts-i3s",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "main": "./dist/ts-i3s.common.js",
   "typings": "./dist/index.d.ts",
   "scripts": {
